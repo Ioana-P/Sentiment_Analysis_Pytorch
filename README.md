@@ -5,7 +5,7 @@ My foci for this project were a) developing my **understanding of successful mod
 
 
 
-![mind-map](https://github.com/Ioana-P/Sentiment_Analysis_Pytorch/master/fig/sentiment_analysis_aws_flow.jpg)
+![mind-map](https://github.com/Ioana-P/Sentiment_Analysis_Pytorch/blob/master/sentiment_analysis_aws_flow.jpeg)
 
 Fig 1 - Mind map showing how a Sagemaker notebook instance containing a Pytorch model interacts with an API, Lambda function and webapp
 
