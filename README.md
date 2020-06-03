@@ -1,8 +1,8 @@
 # Sentiment Analysis in Pytorch
 Training and deploying a Sentiment Analysis model in Pytorch using AWS Sagemaker. The data used was IMDB's Movie review dataset (https://ai.stanford.edu/~amaas/data/sentiment/), which consists of 50,000 instances of binary labelled movie reviews.
 
-###### How do we take a machine learning model and put it out there to be used? 
-###### How do we deploy an inference model out there in the real world, to interact with a user?
+##### How do we take a machine learning model and put it out there to be used? 
+##### How do we deploy an inference model out there in the real world, to interact with a user?
 
 Amazon Web Services platform allows us to train, host and deploy a variety of models that we can use to gain insight from user data. For this instance, suppose we are looking to gauge opinions on a recent product, a film, a game, a trailer, etc.. Users might express their views via some form of text data (e.g. Tweets, reviews, Facebook posts, reddit comments). A deployed sentiment analysis model would be used to take in that data and infer the polarity of the data (positive or negative) and return to us, the number of positive and negative reviews respectively. This would be helpful to inform future product-related or marketing decisions regarding whatever product we're putting out there.
 
