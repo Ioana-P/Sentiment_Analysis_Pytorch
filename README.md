@@ -12,9 +12,9 @@ I've included the training phase in the same diagram as deployment but it should
 
 
 
-![mind-map](https://github.com/Ioana-P/Sentiment_Analysis_Pytorch/blob/master/sentiment_analysis_aws_flow.jpeg)
+![flow-chart](https://github.com/Ioana-P/Sentiment_Analysis_Pytorch/blob/master/sentiment_analysis_aws_flow.jpeg)
 
-Fig 1 - Mind map showing how a Sagemaker notebook instance containing a Pytorch model interacts with an API, Lambda function and webapp
+Fig 1 - Flow-chart showing how a Sagemaker notebook instance containing a Pytorch model interacts with an API, Lambda function and webapp
 ____________________________________________________________________________________________________________________________
 
 Model performance and issues are supervised through AWS' CloudWatch platform, which provides a chronological log of activity from the model endpoint. 
